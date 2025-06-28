@@ -1,4 +1,6 @@
 
+<link rel="stylesheet" type="text/css" href="flexbox.css">
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -17,17 +19,23 @@
 
 ---
 
-## Who am I ?
+## 🧑 Who am I ?
 
 - Professor at *Federal Institute of Bahia (IFBA) [current]*
 - PhD. Computer Science (UFBA) [exp. 2025]
 - M.Sc. Computer Science (UFBA) [2021]
 - Computer Engineer (UFBA) [2018]
 
-### Curriculum Vitae
+### 📄 Curriculum Vitae
 
-[<img width="120px" alt="Lattes" src="logo-lattes.png">](http://lattes.cnpq.br/1113201316133066)
-
-[<img width="120px" alt="ORCID" src="logo-orcid.svg">](https://orcid.org/0000-0002-0780-5480)
-
-[<img width="230px" alt="Google Scholar" src="logo-google-scholar.png">](https://scholar.google.com.br/citations?user=Gv5-9oYAAAAJ&hl=pt-BR)
+<div class="full-width-vw flex-horiz flex-wrap align-center justify-around">
+    <a href="http://lattes.cnpq.br/1113201316133066" target="_blank">
+        <img width="120px" alt="Lattes" src="logo-lattes.png">
+    </a>
+    <a href="https://orcid.org/0000-0002-0780-5480" target="_blank">
+        <img width="120px" alt="ORCID" src="logo-orcid.svg">
+    </a>
+    <a href="https://scholar.google.com.br/citations?user=Gv5-9oYAAAAJ&hl=pt-BR" target="_blank">
+        <img width="230px" alt="Google Scholar" src="logo-google-scholar.png">
+    </a>
+</div>
