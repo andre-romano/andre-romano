@@ -25,6 +25,9 @@
 - Computer Engineer (UFBA) [2018]
 
 ### Curriculum Vitae
-- [Lattes](http://lattes.cnpq.br/1113201316133066)
-- [ORCID](https://orcid.org/0000-0002-0780-5480)
-- [Google Scholar](https://scholar.google.com.br/citations?user=Gv5-9oYAAAAJ&hl=pt-BR)
+
+[<img width="120px" alt="Lattes" src="https://memoria.cnpq.br/Portal-Lattes-theme/images/logo-lattes.png">](http://lattes.cnpq.br/1113201316133066)
+
+[<img width="120px" alt="ORCID" src="https://orcid.org/assets/vectors/orcid.logo.svg">](https://orcid.org/0000-0002-0780-5480)
+
+[<img width="230px" alt="Google Scholar" src="https://scholar.google.com/intl/en/scholar/images/2x/scholar_logo_64dp.png">](https://scholar.google.com.br/citations?user=Gv5-9oYAAAAJ&hl=pt-BR)
