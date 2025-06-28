@@ -2,9 +2,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,11 +9,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-romano&show_icons=true&theme=vision-friendly-dark)]()
+---
+
+<!-- [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-romano&show_icons=true&theme=vision-friendly-dark)](https://github.com/andre-romano/) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-romano&layout=donut)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-romano&layout=donut)](https://github.com/andre-romano/)
 
 ---
 
@@ -26,8 +24,6 @@
 - PhD. Computer Science (UFBA) [exp. 2025]
 - M.Sc. Computer Science (UFBA) [2021]
 - Computer Engineer (UFBA) [2018]
-
----
 
 ### Curriculum Vitae
 - [Lattes](http://lattes.cnpq.br/1113201316133066)
