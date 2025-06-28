@@ -24,10 +24,6 @@
 - M.Sc. Computer Science (UFBA) [2021]
 - Computer Engineer (UFBA) [2018]
 
----
-
-## 📄 Curriculum Vitae
-
 <table style="text-align:center; justify-content:center;">
   <tr>
     <td align="center">
