@@ -1,77 +1,3 @@
-<style>
-    .full-height-perc {
-    height: 100%;
-}
-
-.full-height-vh {
-    height: 100vh;
-}
-
-.full-width-perc {
-    width: 100%;
-}
-
-.full-width-vw {
-    width: 100vw;
-}
-
-.flex-horiz {
-    display: flex;
-    flex-direction: row;
-}
-
-.flex-vert {
-    display: flex;
-    flex-direction: column;
-}
-
-.flex-wrap {
-    flex-wrap: wrap;
-}
-
-.align-start {
-    align-items: flex-start;
-    align-content: flex-start;
-}
-
-.align-end {
-    align-items: flex-end;
-    align-content: flex-end;
-}
-
-.align-center {
-    align-items: center;
-    align-content: center;
-}
-
-.align-between {
-    align-content: space-between;
-}
-
-.align-around {
-    align-content: space-around;
-}
-
-.align-stretch {
-    align-content: stretch;
-}
-
-.justify-center {
-    justify-content: center;
-}
-
-.justify-between {
-    justify-content: space-between;
-}
-
-.justify-around {
-    justify-content: space-around;
-}
-
-.justify-evenly {
-    justify-content: space-evenly;
-}
-</style>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -100,7 +26,7 @@
 
 ### 📄 Curriculum Vitae
 
-<div class="full-width-vw flex-horiz flex-wrap align-center justify-around">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; align-content: center; justify-content: space-evenly;">
     <a href="http://lattes.cnpq.br/1113201316133066" target="_blank">
         <img width="120px" alt="Lattes" src="logo-lattes.png">
     </a>
